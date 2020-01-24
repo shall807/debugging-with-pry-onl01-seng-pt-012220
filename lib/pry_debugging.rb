@@ -1,4 +1,4 @@
-def plus_two(3) 
+def plus_two(num) 
 	num + 2 
-puts #{3} + 2
+puts "#{num} + 2"
 end
